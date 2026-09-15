@@ -1,0 +1,1 @@
+T1.     his dataset contains metadata for YouTube Shorts. It is curated specifically for building       end-to-end Machine Learning pipelines, focusing on Content-Based Video Recommendation Systems using Natural Language Processing (NLP) techniques.
