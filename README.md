@@ -1,6 +1,6 @@
 # DataLabs
 
-DataLabs is a Python-based data cleaning project that uses Pandas and KaggleHub to download, clean, transform, and prepare datasets for analysis and testing. It demonstrates a simple and accessible workflow for working with real-world datasets and improving data quality.
+DataLabs is a Python-based data hub that uses Pandas and KaggleHub to download, clean, transform, and prepare datasets for analysis and testing. It demonstrates a simple and accessible workflow for working with real-world datasets and improving data quality.
 
 ---
 
