@@ -124,7 +124,7 @@ DataLabs is made available under the MIT License. See the [LICENSE](LICENSE) fil
 
 ## Author
 
-Joshua Johnson — Machine Learning Trainee & Python Developer
+Joshua Johnson — Data Science Trainee & Python Developer
 
 ## Contact
 
